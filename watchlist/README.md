@@ -16,7 +16,7 @@ come from aggregator sites, and the funder's own page has not been read. Our con
 | Rolling or not stated | [Apply Now: $40,000 to Build Open-Source Generative Solutions](https://www.ictworks.org/apply-now-40000-to-build-open-source-generative-solutions/) |  |  | not yet |
 | Rolling or not stated | [Apply Now: £250,000 for AI-Enabled Financial Health Enterprises](https://www.ictworks.org/ai-enabled-financial-health-enterprises/) |  |  | not yet |
 | Rolling or not stated | [AWS Imagine Grant (Generative AI Pathfinder)](https://onehundrednights.com/article/ai-grants-nonprofits-2026/) | Amazon Web Services | Up to $150-200K cash plus credits | not yet |
-| Rolling or not stated | [Google for Nonprofits (Cloud and AI credits)](https://grantedai.com/grants/google-for-nonprofits-cloud-ai-credits-google-org-google-cloud-b824e26f) | Google.org | Up to $2,000/yr Cloud credits (Ad Grants already held) | not yet |
+| Rolling or not stated | [Google for Nonprofits (Cloud and AI credits)](https://grantedai.com/grants/google-for-nonprofits-cloud-ai-credits-google-org-google-cloud-b824e26f) | Google.org | Up to $2,000/yr Cloud credits | not yet |
 | Rolling or not stated | [Microsoft AI for Humanitarian Action](https://research.ubc.ca/microsoft-ai-humantiarian-action) | Microsoft | Not stated | not yet |
 | Rolling or not stated | [Microsoft for Nonprofits (Azure credits)](https://nonprofit.microsoft.com/en-us/getting-started) | Microsoft | Up to $2,000/yr Azure credits, M365 licences | not yet |
 | Rolling or not stated | [Mozilla Technology Fund](https://impactcatalyst.substack.com/p/us-grant-opportunities-tech-for-good) | Mozilla | Up to $50,000 | not yet |
