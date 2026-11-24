@@ -1,0 +1,17 @@
+---
+name: data-visualization
+description: Recommend, build, or review honest and accessible charts, infographics, and dashboards in Figma, Power BI, Python, D3, Excel, PowerPoint, or the user's chosen tool. Use when the user provides a table, metric, reporting question, or chart brief.
+---
+
+# Data visualization
+
+Treat the reader's question and the data definition as the source of truth. Read the [chart catalogue](chart-catalogue.md) for selection and the relevant [tool playbook](tool-playbooks.md) for implementation.
+
+1. **Identify the task.** Detect recommend, build, audit, or a combination. Establish audience, decision, metric, delivery medium, desired editability, and house style. Infer safe presentation defaults; ask only when the meaning, permission, or intended deliverable is genuinely unclear.
+2. **Check what the table can support.** Record provenance, row grain, field types, units, numerator and denominator, population, period, filters and aggregation. Check duplicates at the declared grain. Distinguish zero, missing, not applicable, and suppressed. Do not reconstruct suppressed values from totals, filters, tooltips, exports, or changes over time. Protected records stay in the approved workflow. Recompute key values independently. Weight aggregate rates by their denominators when that matches the metric definition; never silently average rates. Do not infer causation, fabricate intervals, or mix measures and populations.
+3. **Recommend.** Use the catalogue's data requirements and rejection tests. Present a first choice and one real alternative or table, with a sentence on what each makes easy or hard to see. For a build request, proceed with the first choice unless there is a material ambiguity or permission gap. Do not build when the user only asked for advice.
+4. **Specify before rendering.** Record question, chart type, exact fields and transforms, units, domains, sort order, missing/suppressed policy, uncertainty, labels, visible filters, annotations, source note, alt text or text/table alternative, style tokens, output/tool and expected values. Design meaningful distinctions with labels or marks as well as color. Respect approved brand tokens after correctness and accessibility.
+5. **Build in the requested tool.** Inspect available runtime, permissions, target file, and official docs for the relevant version. Use native editable elements when requested, and keep data preparation separate from styling. If native build is unavailable, provide the specification, reproducible source or steps, and a clearly labeled preview if possible. Never claim an export, screenshot, or code stub is a native file or published dashboard. Do not upload, publish, or change permissions beyond authorization.
+6. **Verify the result.** Compare real rendered marks and labels against independent reference values, including a filter or changed-input case where applicable. Inspect final export size and clipping; check contrast, color independence, keyboard interaction, visible filter state, text alternative, exposure of suppressed values, and editability appropriate to the target. Label unavailable checks as not run. An audit reports what is wrong, its impact, and how to fix it; it does not change an artifact unless asked.
+
+Deliver the rationale, portable spec, editable artifact or honest fallback, and a verification receipt. Include folders or links to sources and artifacts that the user can open. Mark synthetic examples as synthetic.
