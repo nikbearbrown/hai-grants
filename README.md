@@ -23,4 +23,4 @@ Humanitarians AI Inc. is a nonprofit that builds and evaluates AI for public ben
 | [Anthropic: Claude Corps host](anthropic/) | Rolling per sponsor; cohort intake unconfirmed | Explore hosting a fellow to build and evaluate a source-checked workforce-resource workflow. | Day-to-day supervision and program ownership. This is a host opportunity; Anthropic and CodePath run fellow recruitment. |
 | [The Awesome Foundation: Boston microgrant](awesome-foundation/) | No fixed deadline posted; screening | Run a free hands-on public workshop on checking AI-generated claims, stories, or songs. | Boston venue partner, workshop facilitators and accessibility support. |
 
-[How to collaborate or express Fellow interest](CONTRIBUTING.md) · [All Boston concepts and boundaries](bphc/)
+[How to collaborate or express Fellow interest](CONTRIBUTING.md) · [All Boston concepts and boundaries](bphc/) · [Opportunities we are watching](watchlist/)
