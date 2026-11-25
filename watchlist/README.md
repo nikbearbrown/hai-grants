@@ -15,13 +15,15 @@ come from aggregator sites, and the funder's own page has not been read. Our con
 | Rolling or not stated | [Apply Now: $1 Million for AI EduTech Transformation in Schools](https://www.ictworks.org/global-schools-prize-for-ai-transformation-and-stem-education-schools/) |  |  | not yet |
 | Rolling or not stated | [Apply Now: $40,000 to Build Open-Source Generative Solutions](https://www.ictworks.org/apply-now-40000-to-build-open-source-generative-solutions/) |  |  | not yet |
 | Rolling or not stated | [Apply Now: £250,000 for AI-Enabled Financial Health Enterprises](https://www.ictworks.org/ai-enabled-financial-health-enterprises/) |  |  | not yet |
-| Rolling or not stated | [AWS Imagine Grant (Generative AI Pathfinder)](https://onehundrednights.com/article/ai-grants-nonprofits-2026/) | Amazon Web Services | Up to $150-200K cash plus credits | not yet |
+| 2026 intake closed; next unannounced | [AWS Imagine Grant (Pathfinder)](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/) | Amazon Web Services | Prior round: up to $200K cash plus $100K AWS credits | funder page read |
 | Rolling or not stated | [Google for Nonprofits (Cloud and AI credits)](https://grantedai.com/grants/google-for-nonprofits-cloud-ai-credits-google-org-google-cloud-b824e26f) | Google.org | Up to $2,000/yr Cloud credits | not yet |
 | Rolling or not stated | [Microsoft AI for Humanitarian Action](https://research.ubc.ca/microsoft-ai-humantiarian-action) | Microsoft | Not stated | not yet |
 | Rolling or not stated | [Microsoft for Nonprofits (Azure credits)](https://nonprofit.microsoft.com/en-us/getting-started) | Microsoft | Up to $2,000/yr Azure credits, M365 licences | not yet |
 | Rolling or not stated | [Mozilla Technology Fund](https://impactcatalyst.substack.com/p/us-grant-opportunities-tech-for-good) | Mozilla | Up to $50,000 | not yet |
 | Rolling or not stated | [UNICEF Venture Fund](https://www.impactopen.org/opportunities/unicef-venture-fund) | UNICEF | Up to $100K equity-free | not yet |
 | Rolling or not stated | [US Funders - Tech, Media & Digital Rights](https://impactcatalyst.substack.com/p/us-funders-tech-media-and-digital) |  |  | not yet |
+
+[Verified AI and workforce prospects for Jobs](ai-workforce-funding.md) · [Prior funder checks](funder-checks.md)
 
 Know of one we missed? [Open an issue](https://github.com/nikbearbrown/hai-grants/issues/new) or suggest it at
 [nonprofit-grants](https://github.com/nikbearbrown/nonprofit-grants/issues/new).
