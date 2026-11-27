@@ -2,9 +2,11 @@
 
 Pick an opportunity from the [table](README.md) and tell us what you would like to do. We welcome community partners, educators, researchers, designers, engineers, and people with relevant lived or operational experience.
 
+For research manuscripts, use [Humanitarians AI Research](https://github.com/nikbearbrown/hai-research).
+
 ## Express interest privately
 
-Reply to the person who invited you. Put the opportunity name or BPHC idea ID in the subject. In a few lines, share:
+Reply to the person who invited you. Put the active opportunity name in the subject. In a few lines, share:
 
 - Which idea you want to work on and why.
 - The concrete role or contribution you would like to make, with an optional link to public work.
